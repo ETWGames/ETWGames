@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nicholas Ali</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=etwgames&label=Profile%20views&color=0e75b6&style=flat" alt="etwgames" /> </p>
 <h3 align="center">A computer science student passionate in Data Science, Machine Learning, Artificial Intelligence</h3>
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicholasali2004/) 
@@ -11,6 +14,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ETWGames&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ETWGames&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=ETWGames&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
